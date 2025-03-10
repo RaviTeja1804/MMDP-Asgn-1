@@ -1,0 +1,99 @@
+Country Code,Country Name,Lyrics File Path,Audio File Path,Flag Image Path
+US,United States,national_data/anthems/United States.txt,national_data/anthems_mp3/United States.mp3,national_data/flags/United States.png
+IN,India,national_data/anthems/India.txt,national_data/anthems_mp3/India.mp3,national_data/flags/India.png
+GB,United Kingdom,national_data/anthems/United Kingdom.txt,national_data/anthems_mp3/United Kingdom.mp3,national_data/flags/United Kingdom.png
+FR,France,national_data/anthems/France.txt,national_data/anthems_mp3/France.mp3,national_data/flags/France.png
+DE,Germany,national_data/anthems/Germany.txt,national_data/anthems_mp3/Germany.mp3,national_data/flags/Germany.png
+JP,Japan,national_data/anthems/Japan.txt,national_data/anthems_mp3/Japan.mp3,national_data/flags/Japan.png
+CN,China,national_data/anthems/China.txt,national_data/anthems_mp3/China.mp3,national_data/flags/China.png
+BR,Brazil,national_data/anthems/Brazil.txt,national_data/anthems_mp3/Brazil.mp3,national_data/flags/Brazil.png
+ZA,South Africa,national_data/anthems/South Africa.txt,national_data/anthems_mp3/South Africa.mp3,national_data/flags/South Africa.png
+RU,Russia,national_data/anthems/Russia.txt,national_data/anthems_mp3/Russia.mp3,national_data/flags/Russia.png
+AU,Australia,national_data/anthems/Australia.txt,national_data/anthems_mp3/Australia.mp3,national_data/flags/Australia.png
+CA,Canada,national_data/anthems/Canada.txt,national_data/anthems_mp3/Canada.mp3,national_data/flags/Canada.png
+IT,Italy,national_data/anthems/Italy.txt,national_data/anthems_mp3/Italy.mp3,national_data/flags/Italy.png
+ES,Spain,national_data/anthems/Spain.txt,national_data/anthems_mp3/Spain.mp3,national_data/flags/Spain.png
+MX,Mexico,national_data/anthems/Mexico.txt,national_data/anthems_mp3/Mexico.mp3,national_data/flags/Mexico.png
+KR,South Korea,national_data/anthems/South Korea.txt,national_data/anthems_mp3/South Korea.mp3,national_data/flags/South Korea.png
+ID,Indonesia,national_data/anthems/Indonesia.txt,national_data/anthems_mp3/Indonesia.mp3,national_data/flags/Indonesia.png
+NL,Netherlands,national_data/anthems/Netherlands.txt,national_data/anthems_mp3/Netherlands.mp3,national_data/flags/Netherlands.png
+SA,Saudi Arabia,national_data/anthems/Saudi Arabia.txt,national_data/anthems_mp3/Saudi Arabia.mp3,national_data/flags/Saudi Arabia.png
+TR,Turkey,national_data/anthems/Turkey.txt,national_data/anthems_mp3/Turkey.mp3,national_data/flags/Turkey.png
+AR,Argentina,national_data/anthems/Argentina.txt,national_data/anthems_mp3/Argentina.mp3,national_data/flags/Argentina.png
+CH,Switzerland,national_data/anthems/Switzerland.txt,national_data/anthems_mp3/Switzerland.mp3,national_data/flags/Switzerland.png
+SE,Sweden,national_data/anthems/Sweden.txt,national_data/anthems_mp3/Sweden.mp3,national_data/flags/Sweden.png
+NG,Nigeria,national_data/anthems/Nigeria.txt,national_data/anthems_mp3/Nigeria.mp3,national_data/flags/Nigeria.png
+PL,Poland,national_data/anthems/Poland.txt,national_data/anthems_mp3/Poland.mp3,national_data/flags/Poland.png
+BE,Belgium,national_data/anthems/Belgium.txt,national_data/anthems_mp3/Belgium.mp3,national_data/flags/Belgium.png
+TH,Thailand,national_data/anthems/Thailand.txt,national_data/anthems_mp3/Thailand.mp3,national_data/flags/Thailand.png
+IR,Iran,national_data/anthems/Iran.txt,national_data/anthems_mp3/Iran.mp3,national_data/flags/Iran.png
+AT,Austria,national_data/anthems/Austria.txt,national_data/anthems_mp3/Austria.mp3,national_data/flags/Austria.png
+PK,Pakistan,national_data/anthems/Pakistan.txt,national_data/anthems_mp3/Pakistan.mp3,national_data/flags/Pakistan.png
+MY,Malaysia,national_data/anthems/Malaysia.txt,national_data/anthems_mp3/Malaysia.mp3,national_data/flags/Malaysia.png
+PH,Philippines,national_data/anthems/Philippines.txt,national_data/anthems_mp3/Philippines.mp3,national_data/flags/Philippines.png
+SG,Singapore,national_data/anthems/Singapore.txt,national_data/anthems_mp3/Singapore.mp3,national_data/flags/Singapore.png
+CO,Colombia,national_data/anthems/Colombia.txt,national_data/anthems_mp3/Colombia.mp3,national_data/flags/Colombia.png
+BD,Bangladesh,national_data/anthems/Bangladesh.txt,national_data/anthems_mp3/Bangladesh.mp3,national_data/flags/Bangladesh.png
+VN,Vietnam,national_data/anthems/Vietnam.txt,national_data/anthems_mp3/Vietnam.mp3,national_data/flags/Vietnam.png
+AE,United Arab Emirates,national_data/anthems/United Arab Emirates.txt,national_data/anthems_mp3/United Arab Emirates.mp3,national_data/flags/United Arab Emirates.png
+GR,Greece,national_data/anthems/Greece.txt,national_data/anthems_mp3/Greece.mp3,national_data/flags/Greece.png
+UA,Ukraine,national_data/anthems/Ukraine.txt,national_data/anthems_mp3/Ukraine.mp3,national_data/flags/Ukraine.png
+IL,Israel,national_data/anthems/Israel.txt,national_data/anthems_mp3/Israel.mp3,national_data/flags/Israel.png
+NO,Norway,national_data/anthems/Norway.txt,national_data/anthems_mp3/Norway.mp3,national_data/flags/Norway.png
+FI,Finland,national_data/anthems/Finland.txt,national_data/anthems_mp3/Finland.mp3,national_data/flags/Finland.png
+DK,Denmark,national_data/anthems/Denmark.txt,national_data/anthems_mp3/Denmark.mp3,national_data/flags/Denmark.png
+CZ,Czech Republic,national_data/anthems/Czech Republic.txt,national_data/anthems_mp3/Czech Republic.mp3,national_data/flags/Czech Republic.png
+PT,Portugal,national_data/anthems/Portugal.txt,national_data/anthems_mp3/Portugal.mp3,national_data/flags/Portugal.png
+RO,Romania,national_data/anthems/Romania.txt,national_data/anthems_mp3/Romania.mp3,national_data/flags/Romania.png
+HU,Hungary,national_data/anthems/Hungary.txt,national_data/anthems_mp3/Hungary.mp3,national_data/flags/Hungary.png
+NZ,New Zealand,national_data/anthems/New Zealand.txt,national_data/anthems_mp3/New Zealand.mp3,national_data/flags/New Zealand.png
+IE,Ireland,national_data/anthems/Ireland.txt,national_data/anthems_mp3/Ireland.mp3,national_data/flags/Ireland.png
+PE,Peru,national_data/anthems/Peru.txt,national_data/anthems_mp3/Peru.mp3,national_data/flags/Peru.png
+KE,Kenya,national_data/anthems/Kenya.txt,national_data/anthems_mp3/Kenya.mp3,national_data/flags/Kenya.png
+VE,Venezuela,national_data/anthems/Venezuela.txt,national_data/anthems_mp3/Venezuela.mp3,national_data/flags/Venezuela.png
+EC,Ecuador,national_data/anthems/Ecuador.txt,national_data/anthems_mp3/Ecuador.mp3,national_data/flags/Ecuador.png
+DZ,Algeria,national_data/anthems/Algeria.txt,national_data/anthems_mp3/Algeria.mp3,national_data/flags/Algeria.png
+MA,Morocco,national_data/anthems/Morocco.txt,national_data/anthems_mp3/Morocco.mp3,national_data/flags/Morocco.png
+EG,Egypt,national_data/anthems/Egypt.txt,national_data/anthems_mp3/Egypt.mp3,national_data/flags/Egypt.png
+GH,Ghana,national_data/anthems/Ghana.txt,national_data/anthems_mp3/Ghana.mp3,national_data/flags/Ghana.png
+SK,Slovakia,national_data/anthems/Slovakia.txt,national_data/anthems_mp3/Slovakia.mp3,national_data/flags/Slovakia.png
+BG,Bulgaria,national_data/anthems/Bulgaria.txt,national_data/anthems_mp3/Bulgaria.mp3,national_data/flags/Bulgaria.png
+HR,Croatia,national_data/anthems/Croatia.txt,national_data/anthems_mp3/Croatia.mp3,national_data/flags/Croatia.png
+LT,Lithuania,national_data/anthems/Lithuania.txt,national_data/anthems_mp3/Lithuania.mp3,national_data/flags/Lithuania.png
+SI,Slovenia,national_data/anthems/Slovenia.txt,national_data/anthems_mp3/Slovenia.mp3,national_data/flags/Slovenia.png
+LV,Latvia,national_data/anthems/Latvia.txt,national_data/anthems_mp3/Latvia.mp3,national_data/flags/Latvia.png
+EE,Estonia,national_data/anthems/Estonia.txt,national_data/anthems_mp3/Estonia.mp3,national_data/flags/Estonia.png
+SR,Serbia,national_data/anthems/Serbia.txt,national_data/anthems_mp3/Serbia.mp3,national_data/flags/Serbia.png
+BO,Bolivia,national_data/anthems/Bolivia.txt,national_data/anthems_mp3/Bolivia.mp3,national_data/flags/Bolivia.png
+TT,Trinidad and Tobago,national_data/anthems/Trinidad and Tobago.txt,national_data/anthems_mp3/Trinidad and Tobago.mp3,national_data/flags/Trinidad and Tobago.png
+KW,Kuwait,national_data/anthems/Kuwait.txt,national_data/anthems_mp3/Kuwait.mp3,national_data/flags/Kuwait.png
+OM,Oman,national_data/anthems/Oman.txt,national_data/anthems_mp3/Oman.mp3,national_data/flags/Oman.png
+CY,Cyprus,national_data/anthems/Cyprus.txt,national_data/anthems_mp3/Cyprus.mp3,national_data/flags/Cyprus.png
+LU,Luxembourg,national_data/anthems/Luxembourg.txt,national_data/anthems_mp3/Luxembourg.mp3,national_data/flags/Luxembourg.png
+MT,Malta,national_data/anthems/Malta.txt,national_data/anthems_mp3/Malta.mp3,national_data/flags/Malta.png
+PY,Paraguay,national_data/anthems/Paraguay.txt,national_data/anthems_mp3/Paraguay.mp3,national_data/flags/Paraguay.png
+IS,Iceland,national_data/anthems/Iceland.txt,national_data/anthems_mp3/Iceland.mp3,national_data/flags/Iceland.png
+MU,Mauritius,national_data/anthems/Mauritius.txt,national_data/anthems_mp3/Mauritius.mp3,national_data/flags/Mauritius.png
+QA,Qatar,national_data/anthems/Qatar.txt,national_data/anthems_mp3/Qatar.mp3,national_data/flags/Qatar.png
+PA,Panama,national_data/anthems/Panama.txt,national_data/anthems_mp3/Panama.mp3,national_data/flags/Panama.png
+LK,Sri Lanka,national_data/anthems/Sri Lanka.txt,national_data/anthems_mp3/Sri Lanka.mp3,national_data/flags/Sri Lanka.png
+BH,Bahrain,national_data/anthems/Bahrain.txt,national_data/anthems_mp3/Bahrain.mp3,national_data/flags/Bahrain.png
+JM,Jamaica,national_data/anthems/Jamaica.txt,national_data/anthems_mp3/Jamaica.mp3,national_data/flags/Jamaica.png
+DO,Dominican Republic,national_data/anthems/Dominican Republic.txt,national_data/anthems_mp3/Dominican Republic.mp3,national_data/flags/Dominican Republic.png
+GT,Guatemala,national_data/anthems/Guatemala.txt,national_data/anthems_mp3/Guatemala.mp3,national_data/flags/Guatemala.png
+UY,Uruguay,national_data/anthems/Uruguay.txt,national_data/anthems_mp3/Uruguay.mp3,national_data/flags/Uruguay.png
+NP,Nepal,national_data/anthems/Nepal.txt,national_data/anthems_mp3/Nepal.mp3,national_data/flags/Nepal.png
+HN,Honduras,national_data/anthems/Honduras.txt,national_data/anthems_mp3/Honduras.mp3,national_data/flags/Honduras.png
+SV,El Salvador,national_data/anthems/El Salvador.txt,national_data/anthems_mp3/El Salvador.mp3,national_data/flags/El Salvador.png
+BZ,Belize,national_data/anthems/Belize.txt,national_data/anthems_mp3/Belize.mp3,national_data/flags/Belize.png
+MG,Madagascar,national_data/anthems/Madagascar.txt,national_data/anthems_mp3/Madagascar.mp3,national_data/flags/Madagascar.png
+AL,Albania,national_data/anthems/Albania.txt,national_data/anthems_mp3/Albania.mp3,national_data/flags/Albania.png
+AM,Armenia,national_data/anthems/Armenia.txt,national_data/anthems_mp3/Armenia.mp3,national_data/flags/Armenia.png
+AZ,Azerbaijan,national_data/anthems/Azerbaijan.txt,national_data/anthems_mp3/Azerbaijan.mp3,national_data/flags/Azerbaijan.png
+BY,Belarus,national_data/anthems/Belarus.txt,national_data/anthems_mp3/Belarus.mp3,national_data/flags/Belarus.png
+GE,Georgia,national_data/anthems/Georgia.txt,national_data/anthems_mp3/Georgia.mp3,national_data/flags/Georgia.png
+MD,Moldova,national_data/anthems/Moldova.txt,national_data/anthems_mp3/Moldova.mp3,national_data/flags/Moldova.png
+ME,Montenegro,national_data/anthems/Montenegro.txt,national_data/anthems_mp3/Montenegro.mp3,national_data/flags/Montenegro.png
+MK,North Macedonia,national_data/anthems/North Macedonia.txt,national_data/anthems_mp3/North Macedonia.mp3,national_data/flags/North Macedonia.png
+RS,Serbia,national_data/anthems/Serbia.txt,national_data/anthems_mp3/Serbia.mp3,national_data/flags/Serbia.png
+TJ,Tajikistan,national_data/anthems/Tajikistan.txt,national_data/anthems_mp3/Tajikistan.mp3,national_data/flags/Tajikistan.png
